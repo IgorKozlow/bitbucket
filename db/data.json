@@ -1,0 +1,26 @@
+[
+    {
+        "login": "123456",
+        "password": "$2y$10$am8TDjY6LB6FSilnkb0tRuoMIZ83BgzThiI2HLcS6ftZvC08IKLYK",
+        "email": "123456@mail.ru",
+        "username": "SAS"
+    },
+    {
+        "login": "asdasdasd",
+        "password": "$2y$10$QDVb.2gWhXL7MQ.81AoDUOjzGwK5L5qO3VAFsVslEv\/pnOCaomQg2",
+        "email": "asdasdasd@mail.ru",
+        "username": "asdasdasd"
+    },
+    {
+        "login": "aasdfgasd",
+        "password": "$2y$10$xmErD.PzsU3EIvcyO7IMdeFRQ7qW4AOXcOTt42KmohLz2ISuwuFQq",
+        "email": "aasdfgasd@mail.ru",
+        "username": "aasdfgasd"
+    },
+    {
+        "login": "asdssssss",
+        "password": "$2y$10$Ib5uD7iMHsmkxKmvnGLmUeZdzZMzvdYD62Fy5sewZ9emCWqbgwEQ.",
+        "email": "asdssssss@mail.ru",
+        "username": "asdssssss"
+    }
+]
