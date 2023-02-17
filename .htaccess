@@ -8,11 +8,3 @@ RewriteRule ^(.*)$ index.php
   Order Deny,Allow
   Deny from all
 </Files>
-<Files "main.js">
-  Order Deny,Allow
-  Deny from all
-</Files>
-<Files "jquery.js">
-  Order Deny,Allow
-  Deny from all
-</Files>
